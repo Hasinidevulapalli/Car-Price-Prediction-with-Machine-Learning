@@ -20,9 +20,7 @@ The aim of this project is to predict the price of a car based on various featur
 
 4. **Model Training**  
    - Applied regression algorithms such as:
-     - Linear Regression  
      - Random Forest Regressor  
-     - Decision Tree Regressor
    - Used train-test split to evaluate model performance.
 
 5. **Model Evaluation**  
